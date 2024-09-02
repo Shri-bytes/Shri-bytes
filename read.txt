@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> shri.html </title>
+</head>
+<body bgcolor = "# 808080" text = "# 000000">
+<h1><CENTER> THE BEAUTIFUL WORLD </CENTER></h1>
+<p> " The world is a masterpiece of beauty,woven with vibrant colors,textures,and patterns.
+      Every sunrise paints a new canvas, every raindrop sparkles like a diamond, and every smile 
+      brightens the day. In this beautiful world, we find solace, wonder, and magic. let's cherish 
+      and preserve its beauty for generation to come".
+</p>
+</body>
+</html>
